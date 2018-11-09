@@ -18,13 +18,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "LetMachinesLearn"
 title_separator          : "-"
-name                     : "Adda Satya Ram"
-description              : "An amazing website."
+name                     : "LetMachinesLearn"
+description              : "An Artificial Intelligence Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : letmachineslearn/letmachineslearn.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs              : true, false (default)
+breadcrumbs              : false #false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -104,7 +104,7 @@ author:
   name             : "Asr"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "India"
   email            :
   links:
     - label: "Email"
